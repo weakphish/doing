@@ -2,7 +2,7 @@
 
 what was I doing?
 
-# What is this?
+## What is this?
 
 A simple little TUI to help organize the stack of things you were doing with a tree-branching visual.
 
